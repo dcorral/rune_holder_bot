@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# CSV files (temporary output)
+*.csv
+
+# Logs
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
